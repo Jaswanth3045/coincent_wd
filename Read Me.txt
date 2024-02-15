@@ -1,0 +1,4 @@
+Login Details
+Login Details for admin : admin/Pass: Jaswanth@v
+Login Details for Patient: test@gmail.com/Pass: Test@123
+Login Details for Doctor: test@demo.com/Pass: Test@123
